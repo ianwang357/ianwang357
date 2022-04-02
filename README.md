@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ian Wang
 - 🌱 I’m currently looking for a job in Software Engineering
+- ✨ My contact is ianwang357@gmail.com
 
 
 <!---
